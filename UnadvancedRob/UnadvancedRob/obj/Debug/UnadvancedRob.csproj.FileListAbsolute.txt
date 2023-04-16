@@ -1,0 +1,15 @@
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\UnadvancedRob.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\UnadvancedRob.pdb
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\Assembly-CSharp.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\Rocket.API.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\Rocket.Core.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\Rocket.Unturned.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\SDG.NetTransport.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\UnityEngine.CoreModule.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\UnityEngine.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\bin\Debug\com.rlabrecque.steamworks.net.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\obj\Debug\UnadvancedRob.csproj.AssemblyReference.cache
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\obj\Debug\UnadvancedRob.csproj.CoreCompileInputs.cache
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\obj\Debug\UnadvancedRob.csproj.CopyComplete
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\obj\Debug\UnadvancedRob.dll
+G:\Coding Projects\UnadvancedRob\UnadvancedRob\obj\Debug\UnadvancedRob.pdb
